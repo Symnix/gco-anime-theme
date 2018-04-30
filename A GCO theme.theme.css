@@ -72,7 +72,7 @@ color:orange !important;
     background:#f78383;
 }
 .unread-1Dp-OI{
-    background:#f78383;
+background:#f78383;
 }
 .message-group .mentioned .message-text:after{
     border-left: 5px solid #ff0303;
@@ -151,4 +151,456 @@ font-family: "monospace",Andale Mono,monospace;
 }
 .icon-2doZ3q[style*='background-image: url("/assets/bc11a9099f5729962c095cb49d5042f6.svg");']{
 background: url(https://findicons.com/files/icons/1620/crystal_project/22/14_pencil.png) 50% 50%/cover !important;
+}
+.theme-dark .membersGroup-v9BXpm{
+ background: linear-gradient(to right, transparent,
+ rgba(773,138,23,1),
+ rgba(240,11,107,1));
+}
+.theme-dark .searchPopout-1vUlP3 {
+background-image: url(https://68.media.tumblr.com/4d1355e43025958dc7cde6c5a1c6b065/tumblr_ocss7tW2OR1se015qo1_540.gif);
+background-size: cover;
+background-position:center;
+
+ }
+  .membersGroup-v9BXpm{
+ color:#43b581;
+ }
+ .messagesPopout-24nkyi{
+ background:DodgerBlue;
+ }
+ .theme-dark .option-96V44q.selected-rZcOL-{
+  background-color:DodgerBlue;
+ }
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX{
+background:DodgerBlue;
+}
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+ background: linear-gradient(to right, transparent,
+ rgba(73,13,263,1),
+ rgba(240,11,107,1));
+}
+.contentSelectedText-3wUhMi {
+    background-color: rgba(149, 58, 236, 0.51);
+}
+.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+    background-color: rgba(250, 166, 26, 0.38);
+    color: #fff;
+}
+.create-guild-container.deprecated .create-or-join .form-inner {
+    background-color: #f00;
+}
+:root{
+    --background-image: url(https://i.pinimg.com/736x/b5/2a/3a/b52a3a47eff76ca03c0c736151656341--opm-one-punch-man-saitama.jpg);
+    --background-brightness: 0.5;/*Values between 0 and 1*/
+
+}
+
+
+.app {
+background: var(--background-image);background-position-y: -300px;;background-size: cover;}
+.ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
+.layers-3iHuyZ, .layer-3QrUeG, .container-PNkimc, .typing-2GQL18 {background: rgba(0,0,0,0) !important;}
+/* optionally adjust background brightness (0: original image, 1: black) */
+.layers-3iHuyZ{background: rgba(0,0,0,var(--background-brightness)) !important;}
+/*Layer Transparency*/
+.content .flex-spacer{background-color: rgba(0,0,0,0) !important;}
+.content-region{background-color: rgba(0,0,0,0) !important;}
+.headerBar-UHpsPw{background-color: rgba(0,0,0,0) !important;}
+.noChannel-2EQ0a9{background-color: rgba(0,0,0,0) !important;}
+.channels-Ie2l6A{background-color: rgba(0,0,0,0) !important;}
+.title-qAcLxz{background-color: rgba(0,0,0,0) !important;}
+.container-2Thooq{background-color: rgba(0,0,0,0) !important;}
+.container-PNkimc{background-color: rgba(0,0,0,0) !important;}
+.container-GLDMJI{background-color: rgba(0,0,0,0) !important;}
+.guilds-wrapper{background-color: rgba(0,0,0,0) !important;}
+.chat form.typing-2GQL18{background-color: rgba(0,0,0,0) !important;}
+.chat form{background-color: rgba(0,0,0,0) !important;}
+.chat>.content{background-color: rgba(0,0,0,0) !important;}
+.chat{background-color:rgba(0,0,0,0)!important;}
+.chat .messages{background-color: rgba(0,0,0,0) !important;}
+.friends-table, .messages-wrapper{background-color: rgba(0,0,0,0) !important;}
+.members-1998pB{background-color: rgba(0,0,0,0) !important;}
+#friends{background-color: rgba(0,0,0,0) !important;}
+.title-3qD0b-{background-color: rgba(0,0,0,0) !important;}
+.ui-standard-sidebar-view{background-color: rgba(0,0,0,0) !important;}
+.ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
+.ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
+.container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
+ .friends-icon{
+          background-image: url("https://cdn.discordapp.com/emojis/428779448427479051.gif?v=1") !important;
+      }
+          .itemDefault-3NDwnY{
+              color:yellow !important;
+          }
+
+.icon-2doZ3q[style*='background-image: url("/assets/9a93097ab591379729c68f15a17b26af.svg");']{
+background: url(https://cdn.discordapp.com/attachments/332554151026229259/439673861445779457/if_settings1_16x16_9983.gif) 50% 50%/cover !important;
+  }
+.icon-2doZ3q[style*='background-image: url("/assets/6a711bd91522e885413464a88a4e3c69.svg");']{
+background: url(https://discordbots.org/servers/images/server_bot.gif) 50% 50%/cover !important;
+}
+.guild-inner{
+font-style: italic;
+}
+.message-group .emoji{
+ height: 80px;
+ width: 70px;
+}
+.mention{
+     color:yellow !important;
+}
+.content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
+  display:none!important;
+}
+.itemSelected-3Xxected-eNoxEK{
+color:orange !important;
+}
+.side-8zPYf6 .item-PXvHYJ{
+color:orange !important;
+}
+.guilds-wrapper .guilds .guild.unread:before{
+    background:#f78383;
+}
+.unread-1Dp-OI{
+background:#f78383;
+}
+.message-group .mentioned .message-text:after{
+    border-left: 5px solid #ff0303;
+}
+.container-2zArDx{
+background-image:url(https://i.imgur.com/elCnFHR.png);
+-webkit-filter: brightness(60%) !important;
+background-position: center
+}
+.headerTop-3C2Zn0{
+background: url(https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Full_Cowling_mobility.gif/revision/latest?cb=20170904170015) 50% 50%/cover!important;
+}
+.container-2Thooq{
+ background: linear-gradient(to right, transparent, rgba(19,18,23,1), rgba(254,191,107,1));
+ height:70px;
+width:230px;
+  }
+  .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover{
+ background: linear-gradient(to right, transparent,
+ rgba(233,18,23,1),
+ rgba(200,191,107,1));
+}
+.side-8zPYf6 .itemSelected-1qLhcL{
+background-color:red;
+}
+.backdrop-1ocfXc{
+ background: url(https://hypb.imgix.net/image/2018/02/dragon-ball-super-goku-ultra-instinct-mastered-01.jpg?q=90&w=1090&fit=clip&auto=compress%2Cformat) 50% 50%/cover !important;
+}
+#bda-qem button{
+ background:red;
+}
+#bda-qem button.active{
+ background:orange;
+}
+.emojiPicker-3m1S-j{
+ background:yellow;
+}
+.emojiPicker-3m1S-j .header-1nkwgG .search-bar{
+background: linear-gradient(to right, transparent,
+ rgba(233,18,23,1),
+ rgba(200,191,107,1));
+}
+.emojiPicker-3m1S-j .category-2U57w6{
+ background:yellow;
+ color:lightblue;
+}
+.emote-menu-inner{
+ background:yellow;
+}
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span{
+ background:yellow;
+}
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div{
+ background:yellow;
+}
+.avatar-small{
+ height:40px;
+width:40px;
+background-repeat:none;
+background-size: cover;
+background-position: center;
+}
+.theme-dark .alt-3btY0e .helper-2c73HK{
+  display:none!important;
+
+}
+.accountDetails-3k9g4n .discriminator{
+    font-size:14px;
+}
+.accountDetails-3k9g4n .username{
+font-family: "monospace",Andale Mono,monospace;
+
+}
+#bd-settings-sidebar .ui-tab-bar-item.selected{
+ background:red;
+}
+.icon-2doZ3q[style*='background-image: url("/assets/bc11a9099f5729962c095cb49d5042f6.svg");']{
+background: url(https://findicons.com/files/icons/1620/crystal_project/22/14_pencil.png) 50% 50%/cover !important;
+}
+.theme-dark .membersGroup-v9BXpm{
+ background: linear-gradient(to right, transparent,
+ rgba(773,138,23,1),
+ rgba(240,11,107,1));
+}
+.theme-dark .searchPopout-1vUlP3 {
+background-image: url(https://68.media.tumblr.com/4d1355e43025958dc7cde6c5a1c6b065/tumblr_ocss7tW2OR1se015qo1_540.gif);
+background-size: cover;
+background-position:center;
+
+ }
+  .membersGroup-v9BXpm{
+ color:#43b581;
+ }
+ .messagesPopout-24nkyi{
+ background:DodgerBlue;
+ }
+ .theme-dark .option-96V44q.selected-rZcOL-{
+  background-color:DodgerBlue;
+ }
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX{
+background:DodgerBlue;
+}
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+ background: linear-gradient(to right, transparent,
+ rgba(73,13,263,1),
+ rgba(240,11,107,1));
+}
+.contentSelectedText-3wUhMi {
+    background-color: rgba(16, 236, 41, 0.6);
+}
+.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+    background-color: rgba(250, 166, 26, 0.38);
+    color: #fff;
+}
+.create-guild-container.deprecated .create-or-join .form-inner {
+    background-color: #f00;
+}:root{
+    --background-image: url(https://i.pinimg.com/736x/b5/2a/3a/b52a3a47eff76ca03c0c736151656341--opm-one-punch-man-saitama.jpg);
+    --background-brightness: 0.5;/*Values between 0 and 1*/
+
+}
+
+
+.app {
+background: var(--background-image);background-position-y: -300px;;background-size: cover;}
+.ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
+.layers-3iHuyZ, .layer-3QrUeG, .container-PNkimc, .typing-2GQL18 {background: rgba(0,0,0,0) !important;}
+/* optionally adjust background brightness (0: original image, 1: black) */
+.layers-3iHuyZ{background: rgba(0,0,0,var(--background-brightness)) !important;}
+/*Layer Transparency*/
+.content .flex-spacer{background-color: rgba(0,0,0,0) !important;}
+.content-region{background-color: rgba(0,0,0,0) !important;}
+.headerBar-UHpsPw{background-color: rgba(0,0,0,0) !important;}
+.noChannel-2EQ0a9{background-color: rgba(0,0,0,0) !important;}
+.channels-Ie2l6A{background-color: rgba(0,0,0,0) !important;}
+.title-qAcLxz{background-color: rgba(0,0,0,0) !important;}
+.container-2Thooq{background-color: rgba(0,0,0,0) !important;}
+.container-PNkimc{background-color: rgba(0,0,0,0) !important;}
+.container-GLDMJI{background-color: rgba(0,0,0,0) !important;}
+.guilds-wrapper{background-color: rgba(0,0,0,0) !important;}
+.chat form.typing-2GQL18{background-color: rgba(0,0,0,0) !important;}
+.chat form{background-color: rgba(0,0,0,0) !important;}
+.chat>.content{background-color: rgba(0,0,0,0) !important;}
+.chat{background-color:rgba(0,0,0,0)!important;}
+.chat .messages{background-color: rgba(0,0,0,0) !important;}
+.friends-table, .messages-wrapper{background-color: rgba(0,0,0,0) !important;}
+.members-1998pB{background-color: rgba(0,0,0,0) !important;}
+#friends{background-color: rgba(0,0,0,0) !important;}
+.title-3qD0b-{background-color: rgba(0,0,0,0) !important;}
+.ui-standard-sidebar-view{background-color: rgba(0,0,0,0) !important;}
+.ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
+.ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
+.container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
+ .friends-icon{
+          background-image: url("https://cdn.discordapp.com/emojis/428779448427479051.gif?v=1") !important;
+      }
+          .itemDefault-3NDwnY{
+              color:yellow !important;
+          }
+
+.icon-2doZ3q[style*='background-image: url("/assets/9a93097ab591379729c68f15a17b26af.svg");']{
+background: url(https://cdn.discordapp.com/attachments/332554151026229259/439673861445779457/if_settings1_16x16_9983.gif) 50% 50%/cover !important;
+  }
+.icon-2doZ3q[style*='background-image: url("/assets/6a711bd91522e885413464a88a4e3c69.svg");']{
+background: url(https://discordbots.org/servers/images/server_bot.gif) 50% 50%/cover !important;
+}
+.guild-inner{
+font-style: italic;
+}
+.message-group .emoji{
+ height: 80px;
+ width: 70px;
+}
+.mention{
+     color:yellow !important;
+}
+.content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
+  display:none!important;
+}
+.itemSelected-3Xxected-eNoxEK{
+color:orange !important;
+}
+.side-8zPYf6 .item-PXvHYJ{
+color:orange !important;
+}
+.guilds-wrapper .guilds .guild.unread:before{
+    background:#f78383;
+}
+.unread-1Dp-OI{
+background:#f78383;
+}
+.message-group .mentioned .message-text:after{
+    border-left: 5px solid #ff0303;
+}
+.container-2zArDx{
+background-image:url(https://i.imgur.com/elCnFHR.png);
+-webkit-filter: brightness(60%) !important;
+background-position: center
+}
+.headerTop-3C2Zn0{
+background: url(https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Full_Cowling_mobility.gif/revision/latest?cb=20170904170015) 50% 50%/cover!important;
+}
+.container-2Thooq{
+ background: linear-gradient(to right, transparent, rgba(19,18,23,1), rgba(254,191,107,1));
+ height:70px;
+width:230px;
+  }
+  .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover{
+ background: linear-gradient(to right, transparent,
+ rgba(233,18,23,1),
+ rgba(200,191,107,1));
+}
+.side-8zPYf6 .itemSelected-1qLhcL{
+background-color:red;
+}
+.backdrop-1ocfXc{
+ background: url(https://hypb.imgix.net/image/2018/02/dragon-ball-super-goku-ultra-instinct-mastered-01.jpg?q=90&w=1090&fit=clip&auto=compress%2Cformat) 50% 50%/cover !important;
+}
+#bda-qem button{
+ background:red;
+}
+#bda-qem button.active{
+ background:orange;
+}
+.emojiPicker-3m1S-j{
+ background:yellow;
+}
+.emojiPicker-3m1S-j .header-1nkwgG .search-bar{
+background: linear-gradient(to right, transparent,
+ rgba(233,18,23,1),
+ rgba(200,191,107,1));
+}
+.emojiPicker-3m1S-j .category-2U57w6{
+ background:yellow;
+ color:lightblue;
+}
+.emote-menu-inner{
+ background:yellow;
+}
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span{
+ background:yellow;
+}
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div{
+ background:yellow;
+}
+.avatar-small{
+ height:40px;
+width:40px;
+background-repeat:none;
+background-size: cover;
+background-position: center;
+}
+.theme-dark .alt-3btY0e .helper-2c73HK{
+  display:none!important;
+
+}
+.accountDetails-3k9g4n .discriminator{
+    font-size:14px;
+}
+.accountDetails-3k9g4n .username{
+font-family: "monospace",Andale Mono,monospace;
+
+}
+#bd-settings-sidebar .ui-tab-bar-item.selected{
+ background:red;
+}
+.icon-2doZ3q[style*='background-image: url("/assets/bc11a9099f5729962c095cb49d5042f6.svg");']{
+background: url(https://findicons.com/files/icons/1620/crystal_project/22/14_pencil.png) 50% 50%/cover !important;
+}
+.theme-dark .membersGroup-v9BXpm{
+ background: linear-gradient(to right, transparent,
+ rgba(773,138,23,1),
+ rgba(240,11,107,1));
+}
+.theme-dark .searchPopout-1vUlP3 {
+background-image: url(https://68.media.tumblr.com/4d1355e43025958dc7cde6c5a1c6b065/tumblr_ocss7tW2OR1se015qo1_540.gif);
+background-size: cover;
+background-position:center;
+
+ }
+  .membersGroup-v9BXpm{
+ color:#43b581;
+ }
+ .messagesPopout-24nkyi{
+ background:DodgerBlue;
+ }
+ .theme-dark .option-96V44q.selected-rZcOL-{
+  background-color:DodgerBlue;
+ }
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX{
+background:DodgerBlue;
+}
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+ background: linear-gradient(to right, transparent,
+ rgba(73,13,263,1),
+ rgba(240,11,107,1));
+}
+.contentSelectedText-3wUhMi {
+    background-color: rgba(16, 236, 41, 0.6);
+}
+.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+    background-color: rgba(250, 166, 26, 0.38);
+    color: #fff;
+}
+.create-guild-container.deprecated .create-or-join .form-inner {
+    background-color: #f00;
+}
+.theme-dark #friends .friends-table .friends-row:hover {
+  background: linear-gradient(to left, transparent,
+ rgba(73,13,263,1),
+ rgba(28,2221,107,1));
+}
+.gameIcon-_0rmMm[style*='background-image: url("/assets/a5eba102f5b5e413df2b65c73f288afa.svg");']{
+background: url(https://cdn.discordapp.com/emojis/422029068897091595.png?v=1) 50% 50%/cover !important;
+border: 2px solid red;
+}
+.bda-slist li {
+background: linear-gradient(to right, transparent,
+ rgba(993,13,63,1),
+ rgba(888,821,107,1));
+    border: 1px solid #0468ff;
+}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper input{
+mask: none;
+border-radius: 23%;
+}
+.theme-dark .userSettingsAccount-2eMFVR .viewBody-2Qz-jg{
+font-family: "monospace",Andale Mono,monospace;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+    background-color: #b54343;
+    color: #fff;
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
+    background: #f04747;
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: #faa61a;
+    color: #FFF;
 }
