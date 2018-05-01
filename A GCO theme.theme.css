@@ -319,3 +319,6 @@ background-color: #e0d829;
 .search-results-wrap .empty-results-wrap{
 background-color: #e0d829;
 }
+.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
+    background-color: #353535;
+}
