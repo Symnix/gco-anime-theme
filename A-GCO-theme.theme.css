@@ -98,6 +98,35 @@ width:230px;
 .side-8zPYf6 .itemSelected-1qLhcL{
 background-color:red;
 }
+
+.textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO{
+  border-style: solid;
+    background-color: #43b581;
+}
+.uploadModal-2ifh8j .inner-3nWsbo {
+    color: #fff;
+    flex: 1;
+    margin: 10px;
+}
+.theme-dark .textArea-2Spzkt {
+    color: hsla(0, 100%, 99%, 0.7);
+}
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
+    -webkit-box-shadow: 0 2px 8px rgba(0,0,0,.4);
+    -webkit-box-sizing: border-box;
+    background-color: #fff;
+    background-size: cover;
+    border: 2px solid #111213;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px hsla(0,0%,100%,.6);
+    box-sizing: border-box;
+    height: 104px;
+    margin-left: 16px;
+    margin-right: 12px;
+    margin-top: -33px;
+    width: 104px;
+}
+
 .backdrop-1ocfXc{
  background: url(https://hypb.imgix.net/image/2018/02/dragon-ball-super-goku-ultra-instinct-mastered-01.jpg?q=90&w=1090&fit=clip&auto=compress%2Cformat) 50% 50%/cover !important;
 }
@@ -197,9 +226,6 @@ background:DodgerBlue;
 .autocompleteInner-zh20B_{
 background-image: url("https://www.sbs.com.au/popasia/sites/sbs.com.au.popasia/files/styles/full/public/ash_feat.png?itok=V0frylLR&mtime=1513038781");
 }
-.uploadModal-2ifh8j{
-
-}
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
     background-color: #d272da;
     color: #fff;
@@ -250,14 +276,15 @@ font-family: "monospace",Andale Mono,monospace;
     color: #FFF;
 }
 .uploadModal-2ifh8j{
-background: url(https://vignette.wikia.nocookie.net/beelzebub/images/0/04/Ep48OgaGrowsWings.png/revision/latest?cb=20120118050353) 50% 50%/cover !important;
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqaq2qXI1ugIRtaKfse4glS_nI6Z9LmMEvzQG3e0SqZx7qPD9) 50% 50%/cover !important;
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary {
     background-color: #03f56c;
     color: hsla(0,0%,100%,.3);
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button {
-    background-color: #f50000;
+  border-style: solid;
+    background-color: #43b581;
     height: 36px;
     min-width: 84px;
     padding: 0!important;
@@ -292,7 +319,10 @@ background: url(https://vignette.wikia.nocookie.net/beelzebub/images/0/04/Ep48Og
     background: #a43858;
 }
 .uploadModal-2ifh8j .footer-3mqk7D {
-    background-color: #ff0202;
+    background-color: #e66060;
+}
+.theme-brand .textArea-2Spzkt {
+    color: hsla(0, 0%, 0%, 0.7);
 }
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
     background-color: #f2d602;
@@ -321,4 +351,8 @@ background-color: #e0d829;
 }
 .bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
     background-color: #353535;
+}
+.bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
+    background-color: #9bc13a !important;
+    border-color: #c1bf3a !important;
 }
