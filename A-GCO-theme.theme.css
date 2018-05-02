@@ -319,7 +319,7 @@ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqaq2qXI1
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
 
 }
-.themeDefault-24hCdX.valueunChecked-m-4IJZ{
+.valueUnchecked-2lU_20 .themeDefault-24hCdX {
     background: #1162ef;
     border-radius: 8px;
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
@@ -370,5 +370,3 @@ background-color: #e0d829;
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
 }
-
-
