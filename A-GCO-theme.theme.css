@@ -253,11 +253,11 @@ font-family: "monospace",Andale Mono,monospace;
 background: url(https://vignette.wikia.nocookie.net/beelzebub/images/0/04/Ep48OgaGrowsWings.png/revision/latest?cb=20120118050353) 50% 50%/cover !important;
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary {
-    background-color: #fff;
-    color: #43b581;
+    background-color: #03f56c;
+    color: hsla(0,0%,100%,.3);
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button {
-    background-color: #0035f5;
+    background-color: #f50000;
     height: 36px;
     min-width: 84px;
     padding: 0!important;
@@ -322,4 +322,3 @@ background-color: #e0d829;
 .bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
     background-color: #353535;
 }
-
