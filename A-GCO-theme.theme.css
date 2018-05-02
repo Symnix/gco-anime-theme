@@ -107,6 +107,12 @@ background-color:red;
     flex: 1;
     margin: 10px;
 }
+#bda-qem-twitch-container, #bda-qem-favourite-container {
+    width: 346px;
+    height: 327px;
+    background-color: #d9fb0d;
+    border-radius: 0 0 5px 5px;
+}
 .badge {
     -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.25), inset 0 1px 0 hsla(0,0%,100%,.15);
     background-clip: padding-box;
