@@ -239,7 +239,6 @@ background:DodgerBlue;
 }
 .autocompleteInner-zh20B_{
   background-position:center;
- background-repeat:none;
 background-image: url("https://www.sbs.com.au/popasia/sites/sbs.com.au.popasia/files/styles/full/public/ash_feat.png?itok=V0frylLR&mtime=1513038781");
 }
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
@@ -342,12 +341,12 @@ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqaq2qXI1
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
 
 }
-.valueUnchecked-2lU_20 .themeDefault-24hCdX {
+.valueUnchecked-2lU_20.themeDefault-24hCdX {
     background: #1162ef;
     border-radius: 8px;
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
 }
- *[style*="background-color: rgb(114, 137, 218)"] {
+.bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
 }
@@ -393,7 +392,7 @@ background-color: #e0d829;
 .bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
     background-color: yellow;
 }
-*[style*="background-color: rgb(114, 137, 218)"] {
+.bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
 }
