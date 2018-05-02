@@ -98,6 +98,9 @@ width:230px;
 .side-8zPYf6 .itemSelected-1qLhcL{
 background-color:red;
 }
+.theme-dark .footer-1ia-qo {
+    background-color: #2459c3;
+}
 
 .uploadModal-2ifh8j .inner-3nWsbo {
     color: #fff;
@@ -195,6 +198,9 @@ background: url(https://findicons.com/files/icons/1620/crystal_project/22/14_pen
  background: linear-gradient(to right, transparent,
  rgba(773,138,23,1),
  rgba(240,11,107,1));
+}
+.theme-dark .card-FDVird:before {
+    background: linear-gradient(to left, transparent, rgba(733,13,263,1), rgba(228,2221,107,1));
 }
 .theme-dark .searchPopout-1vUlP3 {
 background-image: url(https://68.media.tumblr.com/4d1355e43025958dc7cde6c5a1c6b065/tumblr_ocss7tW2OR1se015qo1_540.gif);
