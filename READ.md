@@ -13,4 +13,4 @@ My discord server https://discord.gg/ATJGYUd
  ===================================
  version - 2 and above [in case of future updates]
 ------------------------------------------
-![alt text](https://imgur.com/XAizpOM/to/img.png)
+![alt image](https://imgur.com/XAizpOM/to/img.png)
