@@ -1,4 +1,4 @@
-//META{"name":"anime","description":"my anime theme","author":"reuben","version":"1.0"}*//
+//META{"name":"anime","description":"my anime theme","author":"reuben","version":"1.5"}*//
 :root{
     --background-image: url(https://i.pinimg.com/736x/b5/2a/3a/b52a3a47eff76ca03c0c736151656341--opm-one-punch-man-saitama.jpg);
     --background-brightness: 0.5;/*Values between 0 and 1*/
@@ -239,7 +239,7 @@ background:DodgerBlue;
 }
 .autocompleteInner-zh20B_{
   background-position:center;
-background-image: url("https://www.sbs.com.au/popasia/sites/sbs.com.au.popasia/files/styles/full/public/ash_feat.png?itok=V0frylLR&mtime=1513038781");
+background-image: url("https://d3ieicw58ybon5.cloudfront.net/full/u/68e1bba9aff8477dadece0ce0bf9ebb7.jpg");
 }
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
     background-color: #d272da;
@@ -399,4 +399,7 @@ background-color: #e0d829;
 .checked-3_4uQ9[style*="background-color: rgb(114, 137, 218)"] {
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
+}
+.theme-dark .selectorSelected-1_M1WV {
+    background-color: rgba(54, 57, 63, 0.38);
 }
