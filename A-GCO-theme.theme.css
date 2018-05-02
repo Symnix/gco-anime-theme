@@ -99,10 +99,6 @@ width:230px;
 background-color:red;
 }
 
-.textAreaDisabled-2_o-kZ, .textAreaEdit-bNLDk3, .textAreaEnabledNoAttach-1WxUwj, .textAreaForm-18s4EO{
-  border-style: solid;
-    background-color: #43b581;
-}
 .uploadModal-2ifh8j .inner-3nWsbo {
     color: #fff;
     flex: 1;
@@ -307,6 +303,27 @@ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqaq2qXI1
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
     background: #6e4cdc;
 }
+.header-QKLPzZ{
+ background: linear-gradient(to right, transparent,
+ rgba(233,18,23,1),
+ rgba(200,191,107,1));
+}
+.activity-1ythUs{
+ background: linear-gradient(to left, transparent,
+ rgba(233,18,23,1),
+ rgba(200,191,107,1));
+}
+.themeDefault-24hCdX.valueChecked-m-4IJZ{
+    background: #ec0808;
+    border-radius: 8px;
+    transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
+
+}
+.themeDefault-24hCdX.valueunChecked-m-4IJZ{
+    background: #1162ef;
+    border-radius: 8px;
+    transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
+}
 .bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
@@ -320,9 +337,6 @@ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqaq2qXI1
 }
 .uploadModal-2ifh8j .footer-3mqk7D {
     background-color: #e66060;
-}
-.theme-brand .textArea-2Spzkt {
-    color: hsla(0, 0%, 0%, 0.7);
 }
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
     background-color: #f2d602;
@@ -356,3 +370,5 @@ background-color: #e0d829;
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
 }
+
+
