@@ -1,9 +1,8 @@
 #anime theme for discord 
 
-my discord server 
+discord
 
-join my discord https://discord.gg/ATJGYUd
+My discord server https://discord.gg/ATJGYUd
 
 preview
- 
- https://imgur.com/XAizpOM
+
