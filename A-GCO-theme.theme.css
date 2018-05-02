@@ -357,7 +357,7 @@ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqaq2qXI1
     border-radius: 8px;
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
 }
-.bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
+ *[style*="background-color: rgb(114, 137, 218)"] {
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
 }
@@ -403,7 +403,7 @@ background-color: #e0d829;
 .bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
     background-color: yellow;
 }
-.bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
+ *[style*="background-color: rgb(114, 137, 218)"] {
     background-color: #9bc13a !important;
     border-color: #c1bf3a !important;
 }
