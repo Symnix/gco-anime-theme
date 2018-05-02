@@ -234,6 +234,7 @@ background:DodgerBlue;
    background-color: lightblue;
 }
 .autocompleteInner-zh20B_{
+ background-repeat:none;   
 background-image: url("https://www.sbs.com.au/popasia/sites/sbs.com.au.popasia/files/styles/full/public/ash_feat.png?itok=V0frylLR&mtime=1513038781");
 }
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
