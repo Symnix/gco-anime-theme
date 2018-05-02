@@ -42,7 +42,14 @@ background: var(--background-image);background-position-y: -300px;;background-si
           .itemDefault-3NDwnY{
               color:yellow !important;
           }
-
+.theme-dark .footer-2yfCgX {
+    -webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+    background-color: #0849ec;
+    box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+}
+.theme-dark .separator-6YbWrc{
+    background-color: #2459c3;
+  }  
 .icon-2doZ3q[style*='background-image: url("/assets/9a93097ab591379729c68f15a17b26af.svg");']{
 background: url(https://png.icons8.com/metro/1600/settings.png) 50% 50%/cover !important;
   }
