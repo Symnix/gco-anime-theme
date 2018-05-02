@@ -9,7 +9,7 @@ My discord server https://discord.gg/ATJGYUd
  -----------------
  version - 1.0
  -----------------------
- version - 1.5 [ discord update]
+ version - 1.5 [ discord update] [stable]
  ===================================
  version - 2 and above [in case of future updates]
 ------------------------------------------
