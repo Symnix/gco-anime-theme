@@ -1,4 +1,4 @@
-##anime theme for discord 
+####anime theme for discord 
 ------------------------------
 discord
 -------------------------------------------
@@ -13,4 +13,3 @@ My discord server https://discord.gg/ATJGYUd
  ===================================
  version - 2 and above [in case of future updates]
 ------------------------------------------
-![alt image](https://imgur.com/XAizpOM/to/img.png)
