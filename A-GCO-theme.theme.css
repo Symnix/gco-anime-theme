@@ -403,3 +403,13 @@ background-color: #e0d829;
 .theme-dark .selectorSelected-1_M1WV {
     background-color: rgba(54, 57, 63, 0.38);
 }
+.private-channels .channel.selected a {
+ background: linear-gradient(to right, transparent,
+ rgba(233,18,23,1),
+ rgba(200,191,107,1));
+}
+.private-channels .channel:hover a {
+background: linear-gradient(to right, transparent,
+ rgba(23,18,23,1),
+ rgba(200,91,107,1));
+}
