@@ -95,6 +95,13 @@ background-image:url(https://i.imgur.com/elCnFHR.png);
 -webkit-filter: brightness(60%) !important;
 background-position: center
 }
+.footer-1fjuF6{
+ display: none;    
+}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: #000000;
+    color: hsla(0,0%,100%,.8);
+}
 .headerTop-3C2Zn0{
 background: url(https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Full_Cowling_mobility.gif/revision/latest?cb=20170904170015) 50% 50%/cover!important;
 }
