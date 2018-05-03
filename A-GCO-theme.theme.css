@@ -434,3 +434,29 @@ background: linear-gradient(to right, transparent,
  rgba(23,18,23,1),
  rgba(200,91,107,1));
 }
+.theme-dark .cardPrimaryEditable-3KtE4g {
+    background: #faa61a;
+    border-color: #202225;
+}
+.theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {
+    color: #c208e2;
+}
+.theme-dark .primary-jw0I4K {
+    color: #faa61a;
+font-family: "monospace",Andale Mono,monospace;
+font-size: 19px;
+}
+
+.channelNameByline-R73-tU{
+color:#f4e800;
+font-size: 14px;
+font-family: "monospace",Andale Mono,monospace;
+  }
+.header-1R_AjF{
+    color: #faa61a;
+}
+.theme-dark .modal-3HD5ck {
+    -webkit-box-shadow: 0 0 0 1px #43b581, 0 2px 10px 0 rgba(0,0,0,.2);
+    background-color: #5f2d5e;
+    box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+}
