@@ -189,10 +189,10 @@ background-color:red;
 .backdrop-1ocfXc{
  background: url(https://hypb.imgix.net/image/2018/02/dragon-ball-super-goku-ultra-instinct-mastered-01.jpg?q=90&w=1090&fit=clip&auto=compress%2Cformat) 50% 50%/cover !important;
 }
-.bda-dark #bda-qem button {
+ #bda-qem button {
  background:red;
 }
-.bda-dark #bda-qem button.active{
+ #bda-qem button.active{
  background:orange;
 }
 .emojiPicker-3m1S-j {
@@ -432,7 +432,7 @@ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqaq2qXI1
 .theme-dark .search-results-wrap {
     background-color: #e0d829;
 }
-.bda-dark #bda-qem button:hover {
+ #bda-qem button:hover {
 background-color: #e0d829;
 }
 .search-results-wrap .empty-results-wrap{
@@ -441,7 +441,7 @@ background-color: #e0d829;
 .inner-3wn6Q5{
     background-color: rgba(0, 234, 255, 0.52);
 }
-.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
+ #bda-qem-favourite-container,  #bda-qem-twitch-container {
     background-color: yellow;
 }
  *[style*="background-color: rgb(114, 137, 218)"] {
