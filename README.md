@@ -1,4 +1,4 @@
-#anime theme for discord 
+#anime theme for discord  [ note this theme wont work for betterdiscord blue to disable it go to `user settings > betterdiscord settings > core > bd blue`]
 ------------------------------
 discord
 -------------------------------------------
