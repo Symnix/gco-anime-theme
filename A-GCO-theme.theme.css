@@ -102,6 +102,10 @@ background-position: center
     background-color: #000000;
     color: hsla(0,0%,100%,.8);
 }
+.theme-dark .item-1Yvehc:hover {
+    background: #25282d;
+    color: #19d2aa;
+}
 .headerTop-3C2Zn0{
 background: url(https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Full_Cowling_mobility.gif/revision/latest?cb=20170904170015) 50% 50%/cover!important;
 }
