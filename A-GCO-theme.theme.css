@@ -1,7 +1,7 @@
 //META{"name":"anime","description":"anime charecter theme , you will find most of the famous anime charecters in this theme","author":"reuben","version":"1.5"}*//
 :root{
     --background-image: url(https://i.pinimg.com/736x/b5/2a/3a/b52a3a47eff76ca03c0c736151656341--opm-one-punch-man-saitama.jpg);
-    --background-brightness: 0.5;/*Values between 0 and 1*/
+    --background-brightness: 0.6;/*Values between 0 and 1*/
 
 }
 
