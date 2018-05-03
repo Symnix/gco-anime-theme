@@ -63,6 +63,12 @@ font-style: italic;
  height: 80px;
  width: 70px;
 }
+.itemGroup-1tL0uz > .itemSubMenu-1vN_Yn ~ .item-1Yvehc:last-child span{
+    color:red;
+}
+.theme-dark .item-1Yvehc {
+    color: hsla(50, 89%, 49%, 0.6);
+}
 .mention{
      color:yellow !important;
 }
