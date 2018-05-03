@@ -72,6 +72,9 @@ font-style: italic;
 .mention{
      color:yellow !important;
 }
+ #friends .btn {
+    background-color: #43b581;
+}
 .content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
   display:none!important;
 }
@@ -80,6 +83,17 @@ color:orange !important;
 }
 .side-8zPYf6 .item-PXvHYJ{
 color:orange !important;
+}
+ #friends .btn {
+    background-color: #43b581;
+}
+.theme-dark #friends .tab-bar .tab-bar-item.selected {
+    background-color: #de1b1b;
+    color: #36393e;
+}
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+    background-color: #1dda0e;
+    color: #7289da;
 }
 .guilds-wrapper .guilds .guild.unread:before{
     background:#f78383;
