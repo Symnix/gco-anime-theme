@@ -345,6 +345,9 @@ font-family: "monospace",Andale Mono,monospace;
 .ui-standard-sidebar-view #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
     background: #f04747;
 }
+.theme-dark .chat .jump-to-present-bar:hover {
+    background-color: #43b581;
+}
 .ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
     background: #faa61a;
     color: #FFF;
