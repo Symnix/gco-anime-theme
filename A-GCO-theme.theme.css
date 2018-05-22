@@ -147,6 +147,12 @@ background-color:red;
     flex: 1;
     margin: 10px;
 }
+
+.theme-dark .card-FDVird:before{
+background: linear-gradient(to right, transparent,
+ rgba(223,8,3,.6),
+ rgba(20,1,17,1));
+ }
 #bda-qem-twitch-container, #bda-qem-favourite-container {
     width: 346px;
     height: 327px;
