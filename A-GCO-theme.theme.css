@@ -81,10 +81,7 @@ font-style: italic;
 .mention{
      color:yellow !important;
 }
-.theme-dark .cardPrimaryEditable-3KtE4g {
-    background: rgba(32, 34, 37, 0);
-    border-color: rgba(32, 34, 37, 0);
-}
+.theme-dark .cardPrimaryEditable-3KtE4g { background: rgba(250, 166, 26, 0.29); border-color: rgba(32, 34, 37, 0); }
  #friends .btn {
     background-color: #43b581;
 }
