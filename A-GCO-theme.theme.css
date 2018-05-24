@@ -89,7 +89,10 @@ font-style: italic;
   display:none!important;
 }
 .theme-dark .description-11DmNu, .theme-dark .descriptionUsername-J_75O8 {
-    color: #000000;
+    color: #ffffff;
+}
+.theme-dark .descriptionDiscriminator-3vUOCc {
+    color: hsl(0, 0%, 100%);
 }
 .tabBarContainer-1s1u-z {
     border-top: 1px solid hsla(0, 100%, 47%, 0);
@@ -99,9 +102,6 @@ font-style: italic;
 .theme-dark .search-results-wrap .channel-separator .channel-name {
     background-color: rgba(47, 49, 54, 0);
     color: #fff;
-}
-.theme-dark .descriptionDiscriminator-3vUOCc {
-    color: hsl(0, 0%, 0%);
 }
 .theme-dark .search-results-wrap .search-result:before {
     background-image: -webkit-gradient(linear,left bottom,left top,from(rgba(47,49,54,0)),to(#2f3136));
