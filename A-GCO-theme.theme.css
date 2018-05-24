@@ -7,6 +7,9 @@
 .theme-dark .primary-jw0I4K {
     color: rgb(255, 255, 255);
 }
+.theme-dark .chat .jump-to-present-bar {
+    background-color: #7289da;
+}
 .theme-dark .menu-Sp6bN1 {
     -webkit-box-shadow: 0 0 1px rgba(0,0,0,.82), 0 1px 4px rgba(0,0,0,.1);
     background: rgb(67, 181, 129);
