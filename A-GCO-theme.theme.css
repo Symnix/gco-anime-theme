@@ -87,6 +87,12 @@ font-style: italic;
 .content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
   display:none!important;
 }
+.theme-dark .description-11DmNu, .theme-dark .descriptionUsername-J_75O8 {
+    color: #000000;
+}
+.theme-dark .descriptionDiscriminator-3vUOCc {
+    color: hsl(0, 0%, 0%);
+}
 .itemSelected-3Xxected-eNoxEK{
 color:orange !important;
 }
