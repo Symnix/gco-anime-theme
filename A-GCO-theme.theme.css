@@ -66,6 +66,11 @@ font-style: italic;
 .itemGroup-1tL0uz > .itemSubMenu-1vN_Yn ~ .item-1Yvehc:last-child span{
     color:red;
 }
+.marginLeft8-1YseBe {
+    margin-left: 8px;
+    font-size: larger;
+    color: blue;
+}
 .theme-dark .item-1Yvehc {
     color: hsla(50, 89%, 49%, 0.6);
 }
