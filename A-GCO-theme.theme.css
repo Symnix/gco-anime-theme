@@ -7,7 +7,9 @@
 .theme-dark .primary-jw0I4K {
     color: rgb(255, 255, 255);
 }
-
+.theme-dark .select-2TCrqx .Select-control .Select-placeholder {
+    color: #005dff;
+}
 .app {
 background: var(--background-image);background-position-y: -300px;;background-size: cover;}
 .ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
