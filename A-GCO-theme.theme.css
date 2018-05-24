@@ -63,10 +63,6 @@ background: url(https://discordbots.org/servers/images/server_bot.gif) 50% 50%/c
 .guild-inner{
 font-style: italic;
 }
-.message-group .sink-interactions.clickable {
-    cursor: pointer;
-    background-color: rgba(240, 71, 71, 0.28);
-}
 .message-group .emoji{
  height: 80px;
  width: 70px;
