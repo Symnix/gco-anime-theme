@@ -19,6 +19,9 @@
     background-color: rgba(58, 113, 193, 0);
     border-color: rgba(32, 34, 37, 0);
 }
+.theme-dark .body-3ND3kc {
+    background-color: #f04747;
+}
 .app {
 background: var(--background-image);background-position-y: -300px;;background-size: cover;}
 .ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
