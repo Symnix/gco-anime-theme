@@ -91,6 +91,11 @@ font-style: italic;
 .theme-dark .description-11DmNu, .theme-dark .descriptionUsername-J_75O8 {
     color: #000000;
 }
+.tabBarContainer-1s1u-z {
+    border-top: 1px solid hsla(0, 100%, 47%, 0);
+    padding-left: 20px;
+    background-color: tomato;
+}
 .theme-dark .search-results-wrap .channel-separator .channel-name {
     background-color: rgba(47, 49, 54, 0);
     color: #fff;
@@ -316,9 +321,10 @@ background:DodgerBlue;
 .chat .jump-to-present-bar button:last-child{
    background-color: lightblue;
 }
-.autocompleteInner-zh20B_{
-  background-position:center;
-background-image: url("https://d3ieicw58ybon5.cloudfront.net/full/u/68e1bba9aff8477dadece0ce0bf9ebb7.jpg");
+.autocompleteInner-zh20B_ {
+    background-image: url(https://pre00.deviantart.net/9a8b/th/pre/f/2017/123/0/6/pokemon___ash_perfect_team_by_davidbksandrade-db82679.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
     background-color: #d272da;
