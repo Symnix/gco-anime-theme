@@ -40,4 +40,4 @@ My discord server https://discord.gg/ATJGYUd
 .avatar-large[style*="userid"],
 .avatar-large[style*="userid"] + * {
     display: none;
-}```
+} 
