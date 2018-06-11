@@ -1,5 +1,8 @@
 #anime theme for discord  [ note this theme wont work for betterdiscord blue to disable it go to `user settings > betterdiscord settings > core > bd blue`]
 ------------------------------
+## background image made by zzyzzyy
+-----------------------------------------
+
 discord
 -------------------------------------------
 My discord server https://discord.gg/ATJGYUd
@@ -22,7 +25,7 @@ My discord server https://discord.gg/ATJGYUd
 
 
 
-#you hate a user and you don't feel like blocking him my friend [Modder > ᴗ <  from discord] has made a code for you just add thiscode
+# you hate a user and you don't feel like blocking him my friend [Modder > ᴗ <  from discord] has made a code for you just add thiscode
 ========================================================================================================
 ```css
 .message-group {
@@ -37,4 +40,4 @@ My discord server https://discord.gg/ATJGYUd
 .avatar-large[style*="userid"],
 .avatar-large[style*="userid"] + * {
     display: none;
-}
+}```
