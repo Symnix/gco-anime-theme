@@ -1,6 +1,6 @@
 //META{"name":"anime","description":"anime charecter theme , you will find most of the famous anime charecters in this theme","author":"reuben","version":"1.5"}*//
 :root{
-    --background-image: url(https://i.pinimg.com/736x/b5/2a/3a/b52a3a47eff76ca03c0c736151656341--opm-one-punch-man-saitama.jpg);
+    --background-image: url(https://static.giga.de/wp-content/uploads/2018/01/473526-rainbow-six-siege-operator-update.jpg.optimal.jpg);
     --background-brightness: 0.6;/*Values between 0 and 1*/
 /* background image made by zzyzzyy */
 }
@@ -29,7 +29,7 @@
     background-color: #f04747;
 }
 .app {
-background: var(--background-image);background-position-y: -300px;;background-size: cover;}
+background: var(--background-image);background-position-y: 0px;;background-size: cover;}
 .ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
 .layers-3iHuyZ, .layer-3QrUeG, .container-PNkimc, .typing-2GQL18 {background: rgba(0,0,0,0) !important;}
 /* optionally adjust background brightness (0: original image, 1: black) */
